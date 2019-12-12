@@ -1,0 +1,9 @@
+{
+  "domain": "has_garden",
+  "name": "Gardena Smart Control",
+  "documentation": "https://github.com/Lenothx/has_garden",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@wijnantop"],
+  "homeassistant": "0.90.0"
+}
